@@ -5,4 +5,6 @@
 
 Скачайте SteamCMD с официального сайта в папку SteamCMD / Download SteamCMD from the official website to the SteamCMD folder
 
-Официальный сайт / Official website - https://developer.valvesoftware.com/wiki/SteamCMD
+Официальный сайт SteamCMD / Official website SteamCMD - https://developer.valvesoftware.com/wiki/SteamCMD
+
+Позволяет удобно скачивать модификации с Steam / Allows you to conveniently download modifications from Steam
